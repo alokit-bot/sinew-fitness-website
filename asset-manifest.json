@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sinew-fitness-website/static/css/main.1d3fdd57.css",
+    "main.js": "/sinew-fitness-website/static/js/main.95f2a7dc.js",
+    "index.html": "/sinew-fitness-website/index.html",
+    "main.1d3fdd57.css.map": "/sinew-fitness-website/static/css/main.1d3fdd57.css.map",
+    "main.95f2a7dc.js.map": "/sinew-fitness-website/static/js/main.95f2a7dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d3fdd57.css",
+    "static/js/main.95f2a7dc.js"
+  ]
+}
